@@ -46,7 +46,7 @@ git clone https://github.com/yourusername/student-management-system-rest-api.git
 5. Open:
 
 ```
-http://localhost/StudentManagementSystem
+http://localhost/Student_Management_API
 ```
 
 ## API Endpoints
